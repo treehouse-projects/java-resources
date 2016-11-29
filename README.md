@@ -26,6 +26,9 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 * **[Spark Framework](http://sparkjava.com)**
 * **[Spring Framework](https://spring.io)**
 
+     
+* **[Java Design Patterns](https://github.com/iluwatar/java-design-patterns)**
+* **[Java Practices](https://google.github.io/styleguide/javaguide.html)**
 
 ### HTML
 
