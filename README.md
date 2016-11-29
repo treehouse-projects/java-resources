@@ -22,8 +22,9 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
  
 ### Java
 
-* 
-
+* **[Java Software - Oracle](https://www.oracle.com/java/index.html)**
+* **[Spark Framework](http://sparkjava.com)**
+* **[Spring Framework](https://spring.io)**
 
 
 ### HTML
