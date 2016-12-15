@@ -9,13 +9,13 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
  
 ## Index
 
-[Java](#Java) · 
-[HTML](#HTML) · 
-[CSS](#CSS) · 
-[JavaScript](#JavaScript) · 
-[General](#General) · 
-[Slack](#Slack) · 
-[Career](#Career)
+[Java](#java) · 
+[HTML](#html) · 
+[CSS](#css) · 
+[JavaScript](#javascript) · 
+[General](#general) · 
+[Slack](#slack) · 
+[Career](#career)
 
  
 -------
@@ -26,7 +26,7 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 * **[Spark Framework](http://sparkjava.com)**
 * **[Spring Framework](https://spring.io)**
 
-     
+
 * **[Java Design Patterns](https://github.com/iluwatar/java-design-patterns)**
 * **[Java Practices](https://google.github.io/styleguide/javaguide.html)**
 
