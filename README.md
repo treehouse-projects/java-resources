@@ -44,7 +44,12 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 
 ### General
 
-* 
+* **[15 SEO Best Practices](https://moz.com/blog/15-seo-best-practices-for-structuring-urls)** - 
+Best Practices for structuring URLs. The link was found by @craigsdennis some while ago.
+It helps a lot in all web development Techdegree projects, in building URLs
+and providing BackEnd for them. Although some of the practices can be 
+hard to be implemented easily, it is still nice to know professional
+opinion on this topic.
 
 ### Slack
 
