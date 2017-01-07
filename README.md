@@ -16,7 +16,8 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 [JavaScript](#javascript) · 
 [General](#general) · 
 [Slack](#slack) · 
-[Career](#career)
+[Career](#career) .
+[Git and GitHub](#git-and-github)
 
  
 -------
@@ -75,3 +76,18 @@ opinion on this topic.
 
 * 
 
+### Git and GitHub
+
+* **[Naming conventions for Git and GitHub repositories](http://stackoverflow.com/questions/11947587/is-there-a-naming-convention-for-git-repositories)** -
+It was hard to find general article on official Git or GitHub websites
+about this topic. So here is the StackOverflow post, that was also
+approved by [Craig Dennis](https://github.com/craigsdennis) in Slack
+discussions. It also relies indirectly to the question of whether
+we should use capital letters in URLs, see 
+[15 SEO Best Practices](https://moz.com/blog/15-seo-best-practices-for-structuring-urls).
+
+* **[How to write commit messages in Git](http://chris.beams.io/posts/git-commit/)** -
+Super nice instruction about how commit messages should be written.
+It is important to read this
+article as early as possible, and start applying
+Git Commit Best Practices early on for all Techdegree Projects
