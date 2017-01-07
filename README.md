@@ -16,7 +16,7 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 [JavaScript](#javascript) · 
 [General](#general) · 
 [Slack](#slack) · 
-[Career](#career) .
+[Career](#career) · 
 [Git and GitHub](#git-and-github)
 
  
