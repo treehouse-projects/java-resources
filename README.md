@@ -11,6 +11,7 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 
 [Java](#java) · 
 [Spring](#spring) · 
+[Spark](#spark) · 
 [HTML](#html) · 
 [CSS](#css) · 
 [JavaScript](#javascript) · 
@@ -25,9 +26,21 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 ### Java
 
 * **[Java Software - Oracle](https://www.oracle.com/java/index.html)**
-* **[Spark Framework](http://sparkjava.com)**
 * **[Java Design Patterns](https://github.com/iluwatar/java-design-patterns)**
 * **[Java Practices](https://google.github.io/styleguide/javaguide.html)**
+
+### Spark
+
+* **[Spark Framework Main Page](http://sparkjava.com)**
+* **[Link cookie constructor to be used](https://github.com/perwendel/spark/blob/master/src/main/java/spark/Response.java#L215)** - 
+This link was shared like 5-10 times in Slack by
+[Craig Dennis](https://github.com/craigsdennis). It simply points
+to the cookie constructor with many arguments, in which we 
+can provide `"/"` as first argument instead of default one `""`.
+So shortly saying, in Project-4 we better set cookie with `"/"` path so that 
+we can use cookie on all pages of the website. 
+This way we can set our password cookie working on
+many protected pages (by default cookie will be available for only one page).
 
 ### Spring
 
