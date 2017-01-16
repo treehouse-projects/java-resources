@@ -41,6 +41,18 @@ So shortly saying, in Project-4 we better set cookie with `"/"` path so that
 we can use cookie on all pages of the website. 
 This way we can set our password cookie working on
 many protected pages (by default cookie will be available for only one page).
+* **[Link to awaitInitialization in Spark](http://sparkjava.com/documentation.html#awaitinit)** -
+This link is important note for all those who want to write
+Unit Tests with Spark Framework. Was given to me in Slack
+by [Craig Dennis](https://github.com/craigsdennis). It has to
+be put in `@BeforeClass` annotated method when trying to
+test app like [Craig Dennis](https://github.com/craigsdennis) does
+in [Build a REST API with Spark Workshop](https://teamtreehouse.com/library/build-a-rest-api-in-spark).
+[Here](https://github.com/nikiforov-alexander/pt4-spark-blog/blob/master/src/test/java/com/teamtreehouse/blog/MainTest.java#L60)
+can be found example of usage `awaitInitialization`.
+And [here](https://teamtreehouse.com/community/rest-api-with-sparkjava-custom-apiclient) 
+is a link to Treehouse Community with the error that 
+you will get if you don't put `awaitInitialization`.
 
 ### Spring
 
