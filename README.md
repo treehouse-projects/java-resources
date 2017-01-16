@@ -11,6 +11,7 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 
 [Java](#java) · 
 [Spring](#spring) · 
+[Spark](#spark) · 
 [HTML](#html) · 
 [CSS](#css) · 
 [JavaScript](#javascript) · 
@@ -25,9 +26,33 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 ### Java
 
 * **[Java Software - Oracle](https://www.oracle.com/java/index.html)**
-* **[Spark Framework](http://sparkjava.com)**
 * **[Java Design Patterns](https://github.com/iluwatar/java-design-patterns)**
 * **[Java Practices](https://google.github.io/styleguide/javaguide.html)**
+
+### Spark
+
+* **[Spark Framework Main Page](http://sparkjava.com)**
+* **[Link cookie constructor to be used](https://github.com/perwendel/spark/blob/master/src/main/java/spark/Response.java#L215)** - 
+This link was shared like 5-10 times in Slack by
+[Craig Dennis](https://github.com/craigsdennis). It simply points
+to the cookie constructor with many arguments, in which we 
+can provide `"/"` as first argument instead of default one `""`.
+So shortly saying, in Project-4 we better set cookie with `"/"` path so that 
+we can use cookie on all pages of the website. 
+This way we can set our password cookie working on
+many protected pages (by default cookie will be available for only one page).
+* **[Link to awaitInitialization in Spark](http://sparkjava.com/documentation.html#awaitinit)** -
+This link is important note for all those who want to write
+Unit Tests with Spark Framework. Was given to me in Slack
+by [Craig Dennis](https://github.com/craigsdennis). It has to
+be put in `@BeforeClass` annotated method when trying to
+test app like [Craig Dennis](https://github.com/craigsdennis) does
+in [Build a REST API with Spark Workshop](https://teamtreehouse.com/library/build-a-rest-api-in-spark).
+[Here](https://github.com/nikiforov-alexander/pt4-spark-blog/blob/master/src/test/java/com/teamtreehouse/blog/MainTest.java#L60)
+can be found example of usage `awaitInitialization`.
+And [here](https://teamtreehouse.com/community/rest-api-with-sparkjava-custom-apiclient) 
+is a link to Treehouse Community with the error that 
+you will get if you don't put `awaitInitialization`.
 
 ### Spring
 
