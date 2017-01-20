@@ -69,6 +69,12 @@ and [Spring Unit Testing](https://docs.spring.io/spring-data/jpa/docs/current/re
 Opinion about Field Injection in Spring Applications. Was provided by [Craig Dennis](https://github.com/craigsdennis)
 after Project-10 discussion in Slack. It explains nice things about using `@Autowired`
 in Spring. 
+* **[Buildscript Spring Boot community answer](https://teamtreehouse.com/community/getting-errorthe-supplied-build-action-failed-with-an-exception-after-adding-the-gradle-plugin-step-in-last-video)** - 
+Recently it was discovered that old `buildscript` notation that was used 
+by [Chris Ramacciotti](https://github.com/christherama) in all Spring
+Treehouse courses, does not work with new Gradle 3+ that is by default
+used with new Intellijidea projects. Read the post above, if suddenly 
+Gradle does not let you load Spring Boot dependencies.
 
 
 ### HTML
