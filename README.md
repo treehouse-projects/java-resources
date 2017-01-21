@@ -104,8 +104,16 @@ It is important especially that [Chris Ramacciotti](https://github.com/christher
 teaches Hibernate 4.x, and right now in version 5.x there is a major shift
 from `SessionFactory` to `EntityManager`. Read more in 
 in the links above.
-
-
+* **[Vlad Mihalcea Website](https://vladmihalcea.com/)** - 
+If you've read line [above](http://hibernate.org/orm/documentation/5.2/),
+at the very bottom you will be surprised to see advice to
+"see Vlad's presentation". The link above leads to the 
+website of "Hibernate Advocate". For everyone who is 
+interested in Hibernate Best Practices, it is a must
+to follow [Vlad's twitter](https://twitter.com/vlad_mihalcea).
+He always post his activity, like awesome StackOverflow 
+posts and links to simple blog articles by him. I personally
+check Twitter mainly to see what he is posting.
 
 
 ### HTML
