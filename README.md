@@ -10,8 +10,8 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 ## Index
 
 [Java](#java) · 
-[Spring](#spring) · 
 [Spark](#spark) · 
+[Spring](#spring) · 
 [Hibernate](#hibernate) ·
 [HTML](#html) · 
 [CSS](#css) · 
