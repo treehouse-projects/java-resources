@@ -10,8 +10,9 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 ## Index
 
 [Java](#java) · 
-[Spring](#spring) · 
 [Spark](#spark) · 
+[Spring](#spring) · 
+[Hibernate](#hibernate) ·
 [HTML](#html) · 
 [CSS](#css) · 
 [JavaScript](#javascript) · 
@@ -92,6 +93,27 @@ Spring Boot is good enough to simply use Unit Testing and not
 Auto-Restart feature. There are also some new links, like
 [this](https://patrickgrimard.io/2016/01/18/spring-boot-devtools-first-look/)
 for example, but I haven't check them out yet.
+
+### Hibernate
+
+* **[Hibernate Documentation Link](http://hibernate.org/orm/documentation/5.2/)** -  
+Hibernate documentation link is not just a raw docs to read. There a lot
+of fun stuff like [Migration Guide From v4 to v5](https://github.com/hibernate/hibernate-orm/wiki/Migration-Guide---5.2)
+or even very nice [Quickstart tutorial](http://docs.jboss.org/hibernate/orm/5.2/quickstart/html_single/).
+It is important especially that [Chris Ramacciotti](https://github.com/christherama)
+teaches Hibernate 4.x, and right now in version 5.x there is a major shift
+from `SessionFactory` to `EntityManager`. Read more in 
+in the links above.
+* **[Vlad Mihalcea Website](https://vladmihalcea.com/)** - 
+If you've read line [above](http://hibernate.org/orm/documentation/5.2/),
+at the very bottom you will be surprised to see advice to
+"see Vlad's presentation". The link above leads to the 
+website of "Hibernate Advocate". For everyone who is 
+interested in Hibernate Best Practices, it is a must
+to follow [Vlad's twitter](https://twitter.com/vlad_mihalcea).
+He always post his activity, like awesome StackOverflow 
+posts and links to simple blog articles by him. I personally
+check Twitter mainly to see what he is posting.
 
 
 ### HTML
