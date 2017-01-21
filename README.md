@@ -12,6 +12,7 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 [Java](#java) · 
 [Spring](#spring) · 
 [Spark](#spark) · 
+[Hibernate](#hibernate) ·
 [HTML](#html) · 
 [CSS](#css) · 
 [JavaScript](#javascript) · 
@@ -92,6 +93,19 @@ Spring Boot is good enough to simply use Unit Testing and not
 Auto-Restart feature. There are also some new links, like
 [this](https://patrickgrimard.io/2016/01/18/spring-boot-devtools-first-look/)
 for example, but I haven't check them out yet.
+
+### Hibernate
+
+* **[Hibernate Documentation Link](http://hibernate.org/orm/documentation/5.2/)** -  
+Hibernate documentation link is not just a raw docs to read. There a lot
+of fun stuff like [Migration Guide From v4 to v5](https://github.com/hibernate/hibernate-orm/wiki/Migration-Guide---5.2)
+or even very nice [Quickstart tutorial](http://docs.jboss.org/hibernate/orm/5.2/quickstart/html_single/).
+It is important especially that [Chris Ramacciotti](https://github.com/christherama)
+teaches Hibernate 4.x, and right now in version 5.x there is a major shift
+from `SessionFactory` to `EntityManager`. Read more in 
+in the links above.
+
+
 
 
 ### HTML
