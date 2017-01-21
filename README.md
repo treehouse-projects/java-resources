@@ -69,6 +69,29 @@ and [Spring Unit Testing](https://docs.spring.io/spring-data/jpa/docs/current/re
 Opinion about Field Injection in Spring Applications. Was provided by [Craig Dennis](https://github.com/craigsdennis)
 after Project-10 discussion in Slack. It explains nice things about using `@Autowired`
 in Spring. 
+* **[Buildscript Spring Boot community answer](https://teamtreehouse.com/community/getting-errorthe-supplied-build-action-failed-with-an-exception-after-adding-the-gradle-plugin-step-in-last-video)** - 
+Recently it was discovered that old `buildscript` notation that was used 
+by [Chris Ramacciotti](https://github.com/christherama) in all Spring
+Treehouse courses, does not work with new Gradle 3+ that is by default
+used with new Intellijidea projects. Read the post above, if suddenly 
+Gradle does not let you load Spring Boot dependencies.
+* **[Spring Boot Auto-Restart](https://dzone.com/articles/continuous-auto-restart-with-spring-boot-devtools)** - 
+Tired of restarting server every time you make changes in Spring
+project? This link is especially helpful when you've just started
+learning Spring, have a lot of mistakes in code, and Intellijdea
+does not help with Thymeleaf templates. It is rather old link, so one has 
+to use `plugins` notation, see link [above](https://teamtreehouse.com/community/getting-errorthe-supplied-build-action-failed-with-an-exception-after-adding-the-gradle-plugin-step-in-last-video).
+But it should work, and it helped me a lot with Project-7. I'll
+hopefully make a video, or a test repository somewhen, but for
+now it is still a good link for Spring learners, that like
+to experiment and don't want to restart the app manually.
+I should say that when you have a lot of Unit Tests like in 
+Project-8 or Project-12, then this feature will take actually
+longer time to restart. But by that time usually experience with
+Spring Boot is good enough to simply use Unit Testing and not
+Auto-Restart feature. There are also some new links, like
+[this](https://patrickgrimard.io/2016/01/18/spring-boot-devtools-first-look/)
+for example, but I haven't check them out yet.
 
 
 ### HTML
