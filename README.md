@@ -29,6 +29,8 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 * **[Java Software - Oracle](https://www.oracle.com/java/index.html)**
 * **[Java Design Patterns](https://github.com/iluwatar/java-design-patterns)**
 * **[Java Practices](https://google.github.io/styleguide/javaguide.html)**
+* **[Java Package Naming Conventions](https://docs.oracle.com/javase/tutorial/java/package/namingpkgs.html)** -
+Ever wondered how to name a package? Here is official instruction from Oracle.
 
 ### Spark
 
